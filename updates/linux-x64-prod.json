@@ -1,0 +1,8 @@
+{
+  "linux-x64-prod": {
+    "update": "https://github.com/atipezda/plakatyUpdateCDN/releases/download/linux-x64-prod-0.1.0/plakatyelectron-0.1.0.AppImage",
+    "install": "https://github.com/atipezda/plakatyUpdateCDN/releases/download/linux-x64-prod-0.1.0/plakatyelectron-0.1.0.AppImage",
+    "version": "0.1.0",
+    "sha256": "f2a30744ec0e1f7b8ff7e588dcfa68bfdeb1e99e0e9d5077342f6df56c9750cb"
+  }
+}
