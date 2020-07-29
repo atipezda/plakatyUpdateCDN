@@ -1,8 +1,8 @@
 {
   "linux-arm64-prod": {
-    "update": "https://github.com/atipezda/plakatyUpdateCDN/releases/download/linux-arm64-prod-0.1.36/plakatyelectron-0.1.36-arm64.AppImage",
-    "install": "https://github.com/atipezda/plakatyUpdateCDN/releases/download/linux-arm64-prod-0.1.36/plakatyelectron-0.1.36-arm64.AppImage",
-    "version": "0.1.36",
-    "sha256": "3430234304be13a5bce963fbe4e9d4ba72caddc027658bcd90628ec0a60c9d4b"
+    "update": "https://github.com/atipezda/plakatyUpdateCDN/releases/download/linux-arm64-prod-0.1.37/plakatyelectron-0.1.37-arm64.AppImage",
+    "install": "https://github.com/atipezda/plakatyUpdateCDN/releases/download/linux-arm64-prod-0.1.37/plakatyelectron-0.1.37-arm64.AppImage",
+    "version": "0.1.37",
+    "sha256": "32c1059ace7616fb974487546c0a09bf157114f73fc367ebf9de2619c146f384"
   }
 }
