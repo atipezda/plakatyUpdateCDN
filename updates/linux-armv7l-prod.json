@@ -1,8 +1,8 @@
 {
   "linux-armv7l-prod": {
-    "update": "https://github.com/atipezda/plakatyUpdateCDN/releases/download/linux-armv7l-prod-0.1.52/plakatyelectron-0.1.52-armv7l.AppImage",
-    "install": "https://github.com/atipezda/plakatyUpdateCDN/releases/download/linux-armv7l-prod-0.1.52/plakatyelectron-0.1.52-armv7l.AppImage",
-    "version": "0.1.52",
-    "sha256": "a68047ac4eb93f10a20498fdce99487928d65ca19401c0bcd208e0d3faf317be"
+    "update": "https://github.com/atipezda/plakatyUpdateCDN/releases/download/linux-armv7l-prod-0.1.53/plakatyelectron-0.1.53-armv7l.AppImage",
+    "install": "https://github.com/atipezda/plakatyUpdateCDN/releases/download/linux-armv7l-prod-0.1.53/plakatyelectron-0.1.53-armv7l.AppImage",
+    "version": "0.1.53",
+    "sha256": "2efeb6e76b8623e5a27b68011380f4a7c6a8cd85e8040ce06fb24e36f0964be6"
   }
 }
